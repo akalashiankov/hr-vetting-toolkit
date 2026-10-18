@@ -1,0 +1,16 @@
+# Environment variables
+.env
+
+# Python cache & build files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+
+# Generated PDF reports
+reports/*.pdf
+
+# Docker volumes
+.docker/
